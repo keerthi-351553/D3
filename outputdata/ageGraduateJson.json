@@ -1,0 +1,114 @@
+[
+  {
+    "Age": "0-6",
+    "TotalGraduate": 0
+  },
+  {
+    "Age": "7",
+    "TotalGraduate": 22818573
+  },
+  {
+    "Age": "8",
+    "TotalGraduate": 29011421
+  },
+  {
+    "Age": "9",
+    "TotalGraduate": 26565571
+  },
+  {
+    "Age": "10",
+    "TotalGraduate": 34430703
+  },
+  {
+    "Age": "11",
+    "TotalGraduate": 28806963
+  },
+  {
+    "Age": "12",
+    "TotalGraduate": 32348816
+  },
+  {
+    "Age": "13",
+    "TotalGraduate": 28387474
+  },
+  {
+    "Age": "14",
+    "TotalGraduate": 29171219
+  },
+  {
+    "Age": "15",
+    "TotalGraduate": 29325198
+  },
+  {
+    "Age": "16",
+    "TotalGraduate": 27686321
+  },
+  {
+    "Age": "17",
+    "TotalGraduate": 23886851
+  },
+  {
+    "Age": "18",
+    "TotalGraduate": 30218875
+  },
+  {
+    "Age": "19",
+    "TotalGraduate": 22621208
+  },
+  {
+    "Age": "20-24",
+    "TotalGraduate": 114128000
+  },
+  {
+    "Age": "25-29",
+    "TotalGraduate": 95741848
+  },
+  {
+    "Age": "30-34",
+    "TotalGraduate": 77036519
+  },
+  {
+    "Age": "35-39",
+    "TotalGraduate": 68243458
+  },
+  {
+    "Age": "40-44",
+    "TotalGraduate": 53708523
+  },
+  {
+    "Age": "45-49",
+    "TotalGraduate": 43357916
+  },
+  {
+    "Age": "50-54",
+    "TotalGraduate": 32553475
+  },
+  {
+    "Age": "55-59",
+    "TotalGraduate": 24557099
+  },
+  {
+    "Age": "60-64",
+    "TotalGraduate": 20160842
+  },
+  {
+    "Age": "65-69",
+    "TotalGraduate": 13193461
+  },
+  {
+    "Age": "70-74",
+    "TotalGraduate": 8560705
+  },
+  {
+    "Age": "75-79",
+    "TotalGraduate": 4263104
+  },
+  {
+    "Age": "80+",
+    "TotalGraduate": 4920189
+  },
+  {
+    "Age": "Age not stated",
+    "TotalGraduate": 3459950
+  }
+]
